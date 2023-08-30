@@ -1,2 +1,8 @@
 projectorTS/node_modules
-projector_rs/target/*
+projector_rs/target
+projector_rs/debug
+
+projector_rs/Cargo.lock
+
+projector_rs/**/*.rs.bk
+projector_rs/*.pdb
