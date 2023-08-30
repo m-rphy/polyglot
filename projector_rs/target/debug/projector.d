@@ -1,0 +1,1 @@
+/Users/wjm/cs/polyglot/projector_rs/target/debug/projector: /Users/wjm/cs/polyglot/projector_rs/src/bin/projector.rs /Users/wjm/cs/polyglot/projector_rs/src/lib.rs /Users/wjm/cs/polyglot/projector_rs/src/opts.rs
